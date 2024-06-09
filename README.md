@@ -17,10 +17,10 @@ Use your compiler to compile and run the program (refer to your compiler's docum
 
 What it covers is the following:
 
-Loops
-Patterns
-Functions
-Recursion
-Pointers
-Arrays
-2D Arrays
+1)Loops
+2)Patterns
+3)Functions
+4)Recursion
+5)Pointers
+6)Arrays
+7)2D Arrays
